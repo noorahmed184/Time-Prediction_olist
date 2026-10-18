@@ -27,15 +27,25 @@ link=(https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ##### Files :
 Data_Cleaning
+
 .gitignore
+
 Data_Cleaning.zip
+
 How_Far_Off_Is_the_Delivery_Estimate.png
+
 README.md
+
 all_models_comparison2.png
+
 app.py
+
 catalog.csv
+
 cities.csv
+
 states.csv
+
 requirements.txt
 
 
