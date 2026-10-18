@@ -14,5 +14,15 @@ Brazilian E-Commerce Public Dataset by Olist
 
 link=(https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
+##### Date cleaning & preprocessing :
+
+- Data Integration: Combined order, customer, product, seller, and location information into one using Olist’s dataset.
+
+- Data Transformation: Organised the data so each row represented one order and calculated delivery time in days.
+
+- Missing Values: Filled in missing information using imputation methods.
+
+- Data Encoding & Scaling: Converted categorical information into a format the models could understand and scaled numerical features to support model training.
+
 
 ##### streamlit App link :()
